@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-hi, i am md Aftab hossen.I am a student. I am a web developer. I work on the backend. I earn HTML, CSS, javascript,php, laravel. I will get started djnogno python. Than i will move on haking site.
+hi, i am md Aftab hossen.I am a student. I am a web developer. I work on the backend. I earn HTML, CSS, javascript,php, laravel. I will get started djnogno python. Then I will move on haking site. my hobby is programing.
 =======
-hi, i am md Aftab hossen.I am a student. I am a web developer. basically, I work on the backend. I chose the part-time job of tuition.
+hi, i am md Aftab hossen.I am a student. I am a web developer. I work on the backend. I chose the part-time job of tuition.
 >>>>>>> 53fd0582bce1ad7e2a4fde8fcacdca462cbae266
